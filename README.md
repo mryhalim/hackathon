@@ -38,7 +38,7 @@ All designs are available from Figma via the link below:
 
 #### Bonus Features:
 
-*(ranked from easiest to most challenging – tackle as many as you have time for)*
+*(ranked from easiest to most challenging – complete as many as you have time for)*
 
 - Integrate the social media links on footer
 - Add a search feature for the FAQ content
